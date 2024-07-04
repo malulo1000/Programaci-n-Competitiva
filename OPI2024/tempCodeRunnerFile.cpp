@@ -1,0 +1,1 @@
+cout << "prueba: " << x << "\n";
